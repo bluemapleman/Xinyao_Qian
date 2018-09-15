@@ -14,10 +14,10 @@ Hoping that I can create STRONG `Artificical Intelligence` one day to help solve
 
 ## Education
 
-Emory University - Master of Science - Computer Science  
+Emory University - Master of Science - Computer Science
 _September 2018 - December 2019_
 
-Huazhong University of Science and Technology - Course Certificate - Computer Science 
+Huazhong University of Science and Technology - Course Certificate - Computer Science
 _March 2016 - January 2017_
 
 Zhongnan University of Economics and Law - Bachelor of Economics - Finance
@@ -34,10 +34,10 @@ _September 2014 - June 2018_
 
 ## Internship Experience
 
-`
-**Beijing Bonree Data Technology Co., Ltd. Hubei, China**
 
-_Software Engineer Intern_ September - November 2017
+**Beijing Bonree Data Technology Co., Ltd. Hubei, China**                                             September - November 2017
+
+_Software Engineer Intern_ 
 
   Server Cluster Deployment: Assisted in developing a new application performance management (APM)
 software. Deployed server cluster (including Redis, Zookeeper, Kafka and Elasticsearch) on cloud hosts for software
@@ -46,21 +46,22 @@ function testing.
 which saved plenty of time for later developing process.
   Software Prototype Designing: Used MockingBot to assist in designing user interface (in webpage form) of new
 APM product.
-`
 
-`
-**Wuhan Shiyizhichuang Web Technology Co., Ltd. Hubei, China**
+***
 
-_Software Engineer Intern_ March 2016 - January 2017
+
+**Wuhan Shiyizhichuang Web Technology Co., Ltd. Hubei, China**                                        March 2016 - January 2017
+
+_Software Engineer Intern_ 
 
   Java Web Development: Used Java EE Framework (JFinal) to develop content management system (CMS). Wrote HTML and JSP webpage, and implemented backend Servlet.
   New Technique Researching: Learned and Researched on new technique and libraries such as recommendation algorithms and tensorow, and how they can be put into company's existing products to improve the performance.
-`
 
-`
-**Zhongnan University of Economics and Law Hubei, China**
+***
 
-_Research and Teaching Assistant_ September 2015 - March 2017
+**Zhongnan University of Economics and Law Hubei, China**                                             September 2015 - March 2017
+
+_Research and Teaching Assistant_ 
 
   Teaching Assistant: Assisted professor in preparing teaching materials and homework for course Web Programming in Java. Answered students' questions and help grade students' homework.
   Research Assistant: Research on data mining techniques, focusing on quantifying correlated relationship between variables. Finished a paper on discovering relationship between online reviews and goods sales on Chinese e-commerce platform.
