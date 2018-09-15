@@ -34,34 +34,37 @@ _September 2014 - June 2018_
 
 ## Internship Experience
 
-```
+`
 **Beijing Bonree Data Technology Co., Ltd. Hubei, China**
 
 _Software Engineer Intern_ September - November 2017
- Server Cluster Deployment: Assisted in developing a new application performance management (APM)
+
+  Server Cluster Deployment: Assisted in developing a new application performance management (APM)
 software. Deployed server cluster (including Redis, Zookeeper, Kafka and Elasticsearch) on cloud hosts for software
 function testing.
- Development Document Writing: Wrote deployment document on how to deploy cluster for later development,
+  Development Document Writing: Wrote deployment document on how to deploy cluster for later development,
 which saved plenty of time for later developing process.
- Software Prototype Designing: Used MockingBot to assist in designing user interface (in webpage form) of new
+  Software Prototype Designing: Used MockingBot to assist in designing user interface (in webpage form) of new
 APM product.
-```
+`
 
-```
+`
 **Wuhan Shiyizhichuang Web Technology Co., Ltd. Hubei, China**
 
 _Software Engineer Intern_ March 2016 - January 2017
- Java Web Development: Used Java EE Framework (JFinal) to develop content management system (CMS). Wrote HTML and JSP webpage, and implemented backend Servlet.
- New Technique Researching: Learned and Researched on new technique and libraries such as recommendation algorithms and tensorow, and how they can be put into company's existing products to improve the performance.
-```
 
-```
+  Java Web Development: Used Java EE Framework (JFinal) to develop content management system (CMS). Wrote HTML and JSP webpage, and implemented backend Servlet.
+  New Technique Researching: Learned and Researched on new technique and libraries such as recommendation algorithms and tensorow, and how they can be put into company's existing products to improve the performance.
+`
+
+`
 **Zhongnan University of Economics and Law Hubei, China**
 
 _Research and Teaching Assistant_ September 2015 - March 2017
- Teaching Assistant: Assisted professor in preparing teaching materials and homework for course Web Programming in Java. Answered students' questions and help grade students' homework.
- Research Assistant: Research on data mining techniques, focusing on quantifying correlated relationship between variables. Finished a paper on discovering relationship between online reviews and goods sales on Chinese e-commerce platform.
-```
+
+  Teaching Assistant: Assisted professor in preparing teaching materials and homework for course Web Programming in Java. Answered students' questions and help grade students' homework.
+  Research Assistant: Research on data mining techniques, focusing on quantifying correlated relationship between variables. Finished a paper on discovering relationship between online reviews and goods sales on Chinese e-commerce platform.
+`
 
 
 # Projects
@@ -83,6 +86,7 @@ algorithm type.
 
 Personal projects that utilize latest AI technologies to solve realistic problems, including collection of study
 materials on AI.
+
 
 ### Contact Me
 
