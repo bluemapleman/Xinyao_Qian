@@ -1,30 +1,41 @@
-## Welcome to GitHub Pages
+# My Interests
 
-You can use the [editor on GitHub](https://github.com/bluemapleman/Xinyao_Qian/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm mainly interested in `Artificial Intelligence`, `Algorithms` and `Software Development`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am good at `Java` and `Python`, and I am Absorbed in `computer programming`, because love the feeling of creating something that can advance the whole world little by little...
 
-### Markdown
+Hoping that I can create STRONG `Artificical Intelligence` one day to help solve the final puzzles of this world...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About Me
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+Emory University - Master of Science - Computer Science  [September 2018 - December 2019]
 
-- Bulleted
-- List
+Huazhong University of Science and Technology - Course Certificate - Computer Science [March 2016 - January 2017]
 
-1. Numbered
-2. List
+Zhongnan University of Economics and Law - Bachelor of Economics - Finance [September 2014 - June 2018]
 
-**Bold** and _Italic_ and `Code` text
+## SkillSet
 
-[Link](url) and ![Image](src)
-```
+| Field | Items |
+|--|--|
+|Programming Languages| Java, Python, Javascript, SQL|
+|Development Framework & API| HTML+CSS+Javascript, JFinal, Sklearn, Keras+Tensorflow, Pandas, JQuery, BootStrap|
+|Development Tools| Eclipse, Git, Linux shell, Sublime3, MySQL+Navicat|
+|Artificial Intelligence: Machine Learning, Reinforcement Learning|
+
+## Internship Experience
+
+
+
+# Projects
+
+## NewsRecommender
+
+## TMallReviewSpider
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
